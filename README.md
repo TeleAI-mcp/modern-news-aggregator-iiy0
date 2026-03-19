@@ -1,2 +1,3 @@
-# modern-news-aggregator-iiy0
-Automated issue comment bot repository
+# Modern News Aggregator Iiy0
+
+Automated issue comment bot repository.
